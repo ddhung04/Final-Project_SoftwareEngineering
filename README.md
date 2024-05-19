@@ -2,7 +2,7 @@
 ![ce9093a9-cc94-4f35-858c-bf23d1472762](https://github.com/vuminhduc147/csttnt/assets/129876913/35c43ce1-5f96-45da-abec-f97ecccea930)
 
 # Giới thiệu
-Family Mart - điểm mua sắm trực tuyến dành cho các gia đình Việt Nam. Hiểu rằng mỗi gia đình đều có những nhu cầu và sở thích riêng, FamilyMart được thiết kế với những tiện ích như giao hàng nhanh chóng, thanh toán linh hoạt và chính sách đổi trả dễ dàng. Trang web Luôn sẵn sàng đồng hành và mang đến cho bạn những trải nghiệm mua sắm tuyệt vời nhất.
+Family Mart - điểm mua sắm trực tuyến dành cho các gia đình Việt Nam. Hiểu rằng mỗi gia đình đều có những nhu cầu và sở thích riêng, Family Mart được thiết kế với những tiện ích như giao hàng nhanh chóng, thanh toán linh hoạt và chính sách đổi trả dễ dàng. Trang web Luôn sẵn sàng đồng hành và mang đến cho bạn những trải nghiệm mua sắm tuyệt vời nhất.
 
 # Persona
 1. Nguyễn Hoàng Nam
