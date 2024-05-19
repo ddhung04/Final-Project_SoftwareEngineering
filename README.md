@@ -1,32 +1,30 @@
-## Family mart 
-![ce9093a9-cc94-4f35-858c-bf23d1472762](https://github.com/vuminhduc147/csttnt/assets/129876913/35c43ce1-5f96-45da-abec-f97ecccea930)
+# Family Mart 
 
-# Giới thiệu
-Family Mart - điểm mua sắm trực tuyến dành cho các gia đình Việt Nam. Hiểu rằng mỗi gia đình đều có những nhu cầu và sở thích riêng, Family Mart được thiết kế với những tiện ích như giao hàng nhanh chóng, thanh toán linh hoạt và chính sách đổi trả dễ dàng. Trang web Luôn sẵn sàng đồng hành và mang đến cho bạn những trải nghiệm mua sắm tuyệt vời nhất.
+Family Mart là điểm mua sắm trực tuyến dành cho các gia đình Việt Nam. Hiểu rằng mỗi gia đình đều có những nhu cầu và sở thích riêng, Family Mart được thiết kế với những tiện ích như giao hàng nhanh chóng, thanh toán linh hoạt và chính sách đổi trả dễ dàng. Trang web luôn sẵn sàng đồng hành và mang đến cho bạn những trải nghiệm mua sắm tuyệt vời nhất.
 
-# Persona
-1. Nguyễn Hoàng Nam
-   - Tuổi: 28
-   - Giới tính: Nam
-   - Nghề nghiệp: Nhân viên văn phòng
-   - Thu nhập: 20 triệu VND/tháng
-   - Trình độ học vấn: Đại học
-   - Sở thích: Công nghệ, thể thao, du lịch
-   - Mục tiêu: Tìm kiếm và mua sắm các sản phẩm công nghệ mới nhất với giá cả hợp lý
-   - Thói quen mua sắm: Thường mua sắm trực tuyến, thích so sánh giá và đọc các đánh giá sản phẩm trước khi quyết định mua
-   - Nhu cầu: Sản phẩm công nghệ chất lượng cao, chính sách bảo hành tốt, giao hàng nhanh chóng
+## Cài Đặt
 
-2. Trần Thùy Dung
-   - Tuổi: 35
-   - Giới tính: Nữ
-   - Nghề nghiệp: Giáo viên tiểu học
-   - Thu nhập: 10 triệu VND/tháng
-   - Trình độ học vấn: Đại học
-   - Sở thích: Đọc sách, nấu ăn, chăm sóc gia đình
-   - Mục tiêu: Mua sắm các sản phẩm gia dụng và mỹ phẩm an toàn, chất lượng cho gia đình
-   - Thói quen mua sắm: Thường xuyên mua sắm trực tuyến, yêu thích các chương trình khuyến mãi và giảm giá
-   - Nhu cầu: Sản phẩm gia dụng, mỹ phẩm chất lượng cao, an toàn cho sức khỏe, dịch vụ chăm sóc khách hàng tận tâm
+1. **Cài đặt PHP và MySQL:** 
+   - Tải xuống và cài đặt Laragon từ trang web chính thức: [https://laragon.org/](https://laragon.org/).
+   - Laragon sẽ tự động cài đặt PHP và MySQL, sau đó khởi động máy chủ web và cơ sở dữ liệu.
+   
+2. **Kết nối với cơ sở dữ liệu:**
+   - Nếu gặp vấn đề với việc kết nối, hãy kiểm tra cài đặt server MySQL tại `includes/config.php`.
 
-## Thành viên nhóm
+3. **Chạy chương trình**
+
+## Báo Cáo và Video Demo    
+   Bạn có thể tìm thấy báo cáo và video demo tại link sau: [Báo cáo và video demo](https://drive.google.com/drive/folders/1RCaeiCdvtcY4wtHGOWBEd_gMfejjva3w)
+
+## Đóng Góp
+
+Chúng tôi rất hoan nghênh mọi đóng góp để mở rộng và tinh chỉnh dự án này. Nếu bạn có đề xuất hoặc bổ sung, vui lòng tạo pull request hoặc mở một issue.
+
+## Giấy Phép
+
+Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
+
+# Thành Viên Nhóm
+
 1. Đào Duy Hưng - 22022589
 2. Vũ Minh Đức - 22022587
